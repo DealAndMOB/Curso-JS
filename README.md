@@ -1,62 +1,4 @@
-<!DOCTYPE html>
-<html lang="es">
-<head>
-  <meta charset="UTF-8">
-  <meta name="viewport" content="width=device-width, initial-scale=1.0">
-  <title>Curso de JavaScript desde Cero</title>
-  <style>
-    body {
-      font-family: Arial, sans-serif;
-      margin: 0;
-      padding: 0;
-      background-color: #f8f8f8;
-      color: #333;
-    }
-    .container {
-      max-width: 800px;
-      margin: 0 auto;
-      padding: 20px;
-    }
-    h1 {
-      color: #007bff;
-      margin-bottom: 20px;
-    }
-    h2 {
-      color: #333;
-      margin-top: 30px;
-      margin-bottom: 10px;
-    }
-    p {
-      margin-bottom: 10px;
-    }
-    ul {
-      margin-left: 20px;
-    }
-    a {
-      color: #007bff;
-      text-decoration: none;
-    }
-    a:hover {
-      text-decoration: underline;
-    }
-    .btn {
-      display: inline-block;
-      padding: 8px 16px;
-      margin-top: 10px;
-      background-color: #007bff;
-      color: #fff;
-      border: none;
-      border-radius: 4px;
-      cursor: pointer;
-      text-decoration: none;
-    }
-    .btn:hover {
-      background-color: #0056b3;
-    }
-  </style>
-</head>
-<body>
-  <div class="container">
+
     <h1>Curso de JavaScript desde Cero</h1>
     <p>¡Bienvenido al Curso de JavaScript desde Cero! Este curso está diseñado para personas que no tienen experiencia previa en JavaScript y desean aprender desde cero.</p>
     <h2>¿Qué aprenderás en este curso?</h2>
@@ -84,8 +26,5 @@
     <h2>Licencia</h2>
     <p>Este proyecto está bajo la licencia <a href="#">MIT</a>.</p>
     <a href="#" class="btn">Descargar materiales del curso</a>
-  </div>
-</body>
-</html>
 
 
